@@ -6,4 +6,6 @@
 
 	echo "Ola Udemy!";
 
+	echo "teste";
+
 ?>
